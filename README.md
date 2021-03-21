@@ -13,5 +13,6 @@ Vacine Speaks presents a general overview of how people in different regions of 
 ## Additional Info
 
 For additional info please check the following links
-
-![Ram Gunasekaran A](https://www.github.com/ramcalm)
+[CKM Ganesan](https://github.com/ckmganesh)
+[Siddharth Nair](https://github.com/Siddharth1010)
+[Ram Gunasekaran A](https://www.github.com/ramcalm)

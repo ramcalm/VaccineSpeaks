@@ -12,6 +12,6 @@ Vacine Speaks presents a general overview of how people in different regions of 
 
 ## Contributors
 <br/>
-[CKM Ganesan](https://github.com/ckmganesh) <br/>
-[Siddharth Nair](https://github.com/Siddharth1010) <br/>
-[Ram Gunasekaran A](https://www.github.com/ramcalm) 
+<a href="https://github.com/ckmganesh">Ganesh C K M</a><br>
+<a href="https://github.com/siddharth1010">Siddharth M Nair</a><br>
+<a href="https://github.com/ramcalm">Ram Gunasekaran A</a><br>

@@ -14,7 +14,4 @@ Vacine Speaks presents a general overview of how people in different regions of 
 
 For additional info please check the following links
 
-https://devpost.com/software/vaccine-speaks-7kzg1h#updates
-
-
-https://devpost.com/software/vaccine-speaks
+![Ram Gunasekaran A](https://www.github.com/ramcalm)

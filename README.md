@@ -10,9 +10,8 @@ Vacine Speaks presents a general overview of how people in different regions of 
 ### America
 ![Vaccine Speaks in America](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/416/563/datas/gallery.jpg)
 
-## Additional Info
-
-For additional info please check the following links
+## Contributors
+<br/>
 [CKM Ganesan](https://github.com/ckmganesh) <br/>
 [Siddharth Nair](https://github.com/Siddharth1010) <br/>
 [Ram Gunasekaran A](https://www.github.com/ramcalm) 
